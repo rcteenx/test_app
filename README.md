@@ -1,6 +1,6 @@
 # README
 
-Test amaçlı basit değiştirme...
+Test amaçlı basit değiştirme... xxx (gitHub düzeltme 2)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
